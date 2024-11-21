@@ -47,11 +47,13 @@ e.	Administración de Sesiones: Permitir a los administradores gestionar las ses
 1.	ESPECIFICACIÓN DE REQUERIMIENTOS
 
 4.1.	Diagramas de caso de uso Nivel 0 (Requerimientos)
+![image](https://github.com/user-attachments/assets/a8496b5d-0924-43ac-8f33-90a195d6eaa1)
 
 
  
 4.2 Diagramas de caso de uso Nivel 1
 
+![image](https://github.com/user-attachments/assets/58da921d-2dcd-4de1-9341-e414fa21118c)
 
  
 NOMBRE: [H1.1 – Crear perfil]
